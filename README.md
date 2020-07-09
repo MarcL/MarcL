@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Marc Littlemore 👋
+
+I'm a Software Engineering Team Lead at the BBC and an ex-veteran of the video games industry.
+
+- 🔭 **Working on:** Digital products to help beginners to learn [JavaScript Testing](https://www.marclittlemore.com/courses/javascript-testing-beginners-course/?signup=github-readme) and how to make great [Chatbot integrations](https://www.marclittlemore.com/bots/sign-up-bot-building-for-beginners/?signup=github-readme)
+- 🌱 **Learning:** Being a better teacher and learner, and how to build and market digital products
+- 💬 **Ask me about:** Anything you need help with! Always happy to help out.
+- 👉🏻 **Pronouns:** he/him
+- 📫 **Contact me:** [@marclittlemore](https://twitter.com/marclittlemore) 👾 [marclittlemore.com](https://marclittlemore.com/contact)
 
 <!--
 **MarcL/MarcL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
