@@ -1,6 +1,6 @@
 ### Hi I'm Marc Littlemore 👋
 
-I'm a Software Engineering Manager at [Gamma Telecoms](https://gamma.co.uk) helping to build a better unified communications platform. I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video games industry.
+I'm a Software Engineering Manager helping to build a better unified communications platform. I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video games industry.
 
 - 🔭 **Working on:** Digital products to help beginners to learn [JavaScript Testing](https://www.marclittlemore.com/courses/javascript-testing-beginners-course/?signup=github-readme) and how to make great [Chatbot integrations](https://www.marclittlemore.com/bots/sign-up-bot-building-for-beginners/?signup=github-readme)
 - 🌱 **Learning:** Being a better teacher and learner, and how to build and market digital products. I'm also learning lots about the telecom industry.
