@@ -1,4 +1,4 @@
-### Hi I'm Marc Littlemore 👋
+## 👋 Hello! I'm Marc Littlemore
 
 I'm a Software Engineering Manager helping to build great software development teams. I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video games industry.
 
@@ -6,4 +6,17 @@ I'm a Software Engineering Manager helping to build great software development t
 - 🌱 **Learning:** Being a better teacher and learner, and how to build and market digital products. I'm also learning lots about the telecom industry.
 - 💬 **Ask me about:** Anything you need help with! Always happy to help out.
 - 👉🏻 **Pronouns:** he/him
-- 📫 **Contact me:** [@marclittlemore](https://twitter.com/marclittlemore) 👾 [marclittlemore.com](https://marclittlemore.com/contact)
+
+### 🔗 Connect with me:
+
+[<img align="left" alt="marclittlemore.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://marclittlemore.com)
+[<img align="left" alt="Marc Littlemore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/marclittlemore)
+[<img align="left" alt="Marc LIttlemore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marclittlemore/)
+[<img align="left" alt="Marc Littlemore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCgZBRIJDavqtuK8JwUs_nkA)
+[<img align="left" alt="Marc Littlemore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/marclittlemore)
+
+
+### 📕 Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
