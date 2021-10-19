@@ -7,7 +7,7 @@ I'm a Software Engineering Manager helping to build great software development t
 - 💬 **Ask me about:** Anything you need help with! Always happy to help out.
 - 👉🏻 **Pronouns:** he/him
 
-### 🔗 Connect with me:
+### 🔗 Connect with me
 
 [<img align="left" alt="marclittlemore.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://marclittlemore.com)
 [<img align="left" alt="Marc Littlemore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/marclittlemore)
@@ -15,6 +15,7 @@ I'm a Software Engineering Manager helping to build great software development t
 [<img align="left" alt="Marc Littlemore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCgZBRIJDavqtuK8JwUs_nkA)
 [<img align="left" alt="Marc Littlemore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/marclittlemore)
 
+<br />
 
 ### 📕 Latest Articles
 
