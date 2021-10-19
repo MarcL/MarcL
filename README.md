@@ -19,4 +19,9 @@ I'm a Software Engineering Manager helping to build great software development t
 ### 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With JavaScript Testing](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
+- [Automating your releases with semantic-release and GitLab](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
+- [Lessons learned from 30 days of writing](https://www.marclittlemore.com/lessons-learned-from-30-days-of-writing/)
+- [You've got this: become a confident developer](https://www.marclittlemore.com/youve-got-this-become-a-confident-developer/)
+- [Never get too comfortable](https://www.marclittlemore.com/never-get-too-comfortable/)
 <!-- BLOG-POST-LIST:END -->
