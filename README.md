@@ -20,9 +20,9 @@ I'm a Software Engineering Manager helping to build great software development t
 ### 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Create Gravatar Images With Eleventy](https://www.marclittlemore.com/easily-create-gravatar-images-with-eleventy/)
-- [Getting Started With JavaScript Testing](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
-- [Automating your releases with semantic-release and GitLab](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
-- [Lessons learned from 30 days of writing](https://www.marclittlemore.com/lessons-learned-from-30-days-of-writing/)
-- [You&#39;ve got this: become a confident developer](https://www.marclittlemore.com/youve-got-this-become-a-confident-developer/)
+- [Easily Create Gravatar Images With Eleventy](https://main--marcl.netlify.app/easily-create-gravatar-images-with-eleventy/)
+- [Getting Started With JavaScript Testing](https://main--marcl.netlify.app/javascript-testing/getting-started-with-javascript-testing/)
+- [Automating your releases with semantic-release and GitLab](https://main--marcl.netlify.app/automating-your-releases-with-semantic-release-and-gitlab/)
+- [Lessons learned from 30 days of writing](https://main--marcl.netlify.app/lessons-learned-from-30-days-of-writing/)
+- [You&#39;ve got this: become a confident developer](https://main--marcl.netlify.app/youve-got-this-become-a-confident-developer/)
 <!-- BLOG-POST-LIST:END -->
