@@ -1,9 +1,11 @@
 ## 👋 Hello! I'm Marc Littlemore
 
-I'm a Software Engineering Manager helping to build great software development teams. I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video games industry.
+I'm a Senior Engineering Manager at [Netlify](https://netlify.com/) helping to build great software development teams and the future of the web.
+
+I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video games industry.
 
 - 🔭 **Working on:** Digital products to help beginners to learn [JavaScript Testing](https://www.marclittlemore.com/courses/javascript-testing-beginners-course/?signup=github-readme) and how to make great [Chatbot integrations](https://www.marclittlemore.com/bots/sign-up-bot-building-for-beginners/?signup=github-readme)
-- 🌱 **Learning:** Being a better teacher and learner, and how to build and market digital products. I'm also learning lots about the telecom industry.
+- 🌱 **Learning:** Being a better teacher and learner, and how to build and market digital products. I'm also learning lots about building the future of the web with my Netlify friends.
 - 💬 **Ask me about:** Anything you need help with! Always happy to help out.
 - 👉🏻 **Pronouns:** he/him
 
