@@ -23,8 +23,8 @@ I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video game
 
 <!-- BLOG-POST-LIST:START -->
 - [Easily Create Gravatar Images With Eleventy](https://www.marclittlemore.com/easily-create-gravatar-images-with-eleventy/)
-- [Getting Started With JavaScript Testing](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
-- [Automating your releases with semantic-release and GitLab](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
+- [Improving Your Workflow with JavaScript Testing: Best Practices](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
+- [Streamline Your Workflow: Automate GitLab Releases with Semantic-Release](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
 - [Lessons learned from 30 days of writing](https://www.marclittlemore.com/lessons-learned-from-30-days-of-writing/)
 - [You&#39;ve got this: become a confident developer](https://www.marclittlemore.com/youve-got-this-become-a-confident-developer/)
 <!-- BLOG-POST-LIST:END -->
