@@ -22,9 +22,9 @@ I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video game
 ### 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Create Gravatar Images With Eleventy](https://www.marclittlemore.com/easily-create-gravatar-images-with-eleventy/)
-- [Improving Your Workflow with JavaScript Testing: Best Practices](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
-- [Streamline Your Workflow: Automate GitLab Releases with Semantic-Release](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
-- [Lessons learned from 30 days of writing](https://www.marclittlemore.com/lessons-learned-from-30-days-of-writing/)
-- [You&#39;ve got this: become a confident developer](https://www.marclittlemore.com/youve-got-this-become-a-confident-developer/)
+- [📝 Note - 2023-11-19 23:22](https://www.marclittlemore.com/notes/2023-11-06-first-note/)
+- [Easily Create Gravatar Images With Eleventy2022-01-30 00:00](https://www.marclittlemore.com/easily-create-gravatar-images-with-eleventy/)
+- [Improving Your Workflow with JavaScript Testing: Best Practices2021-07-24 00:00](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
+- [Streamline Your Workflow: Automate GitLab Releases with Semantic-Release2021-07-10 00:00](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
+- [Lessons learned from 30 days of writing2021-04-22 00:00](https://www.marclittlemore.com/lessons-learned-from-30-days-of-writing/)
 <!-- BLOG-POST-LIST:END -->
