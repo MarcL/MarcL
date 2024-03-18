@@ -22,9 +22,9 @@ I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video game
 ### 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Your Static Site Rebuilds with Netlify Scheduled Functions](https://www.marclittlemore.com/automate-site-rebuilds-with-netlify-scheduled-functions/)
 - [📝 Note - 2023-11-29 23:55](https://www.marclittlemore.com/notes/2023-11-29-half-life-2/)
 - [📝 Note - 2023-11-19 23:10](https://www.marclittlemore.com/notes/2023-11-19-first-note/)
-- [Easily Create Gravatar Images With Eleventy2022-01-30 00:00](https://www.marclittlemore.com/easily-create-gravatar-images-with-eleventy/)
-- [Improving Your Workflow with JavaScript Testing: Best Practices2021-07-24 00:00](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
-- [Streamline Your Workflow: Automate GitLab Releases with Semantic-Release2021-07-10 00:00](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
+- [Easily Create Gravatar Images With Eleventy](https://www.marclittlemore.com/easily-create-gravatar-images-with-eleventy/)
+- [Improving Your Workflow with JavaScript Testing: Best Practices](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
 <!-- BLOG-POST-LIST:END -->
