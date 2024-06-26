@@ -1,12 +1,10 @@
 ## 👋 Hello! I'm Marc Littlemore
 
-I'm a Senior Engineering Manager at [Netlify](https://netlify.com/) helping to build great software development teams and the future of the web.
-
 Hello! I'm a Senior Software Engineering Manager with extensive experience in leading high-performing teams and delivering innovative solutions across both startup and enterprise environments. Over the past 8 years, I have refined my management skills at BBC, Sony, and several dynamic startups like Netlify.
 
 I'm an ex-veteran of the video games industry, having spent almost 20 years working on video games, mostly for Sony PlayStation. See my [games list here](https://marclittlemore.com/games/).
 
-- 📀 **Music production:** I've been a DJ since 1988 and spent a lot of time playing house music to clubbers in the UK and Germany. I spend a lot of my free time making electronic music in Ableton Live.
+- 📀 **Music production:** I've been a [DJ since 1988](https://djcruze.co.uk/) and spent a lot of time playing house music to clubbers in the UK and Germany. I spend a lot of my free time making electronic music in Ableton Live.
 - 🌱 **Learning:** I'm always learning about new technologies, how to be a better leader, and how to build and market digital products.
 - 💬 **Ask me about:** Anything you need help with! Always happy to help out.
 - 👉🏻 **Pronouns:** he/him
