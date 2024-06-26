@@ -1,17 +1,17 @@
 ## 👋 Hello! I'm Marc Littlemore
 
-I'm a Senior Engineering Manager at [Netlify](https://netlify.com/) helping to build great software development teams and the future of the web.
+Hello! I'm a Senior Software Engineering Manager with extensive experience in leading high-performing teams and delivering innovative solutions across both startup and enterprise environments. Over the past 8 years, I have refined my management skills at BBC, Sony, and several dynamic startups like Netlify.
 
-I'm an ex-BBC Software Engineering Team Lead and an ex-veteran of the video games industry.
+I'm an ex-veteran of the video games industry, having spent almost 20 years working on video games, mostly for Sony PlayStation. See my [games list here](https://marclittlemore.com/games/).
 
-- 🔭 **Working on:** Digital products to help beginners to learn [JavaScript Testing](https://www.marclittlemore.com/courses/javascript-testing-beginners-course/?signup=github-readme) and how to make great [Chatbot integrations](https://www.marclittlemore.com/bots/sign-up-bot-building-for-beginners/?signup=github-readme)
-- 🌱 **Learning:** Being a better teacher and learner, and how to build and market digital products. I'm also learning lots about building the future of the web with my Netlify friends.
+- 📀 **Music production:** I've been a [DJ since 1988](https://djcruze.co.uk/) and spent a lot of time playing house music to clubbers in the UK and Germany. I spend a lot of my free time making electronic music in Ableton Live.
+- 🌱 **Learning:** I'm always learning about new technologies, how to be a better leader, and how to build and market digital products.
 - 💬 **Ask me about:** Anything you need help with! Always happy to help out.
 - 👉🏻 **Pronouns:** he/him
 
 ### 🔗 Connect with me
 
-[<img align="left" alt="marclittlemore.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://marclittlemore.com)
+[<img align="left" alt="marclittlemore.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://marclittlemore.com/)
 [<img align="left" alt="Marc Littlemore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/marclittlemore)
 [<img align="left" alt="Marc LIttlemore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/marclittlemore/)
 [<img align="left" alt="Marc Littlemore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCgZBRIJDavqtuK8JwUs_nkA)
