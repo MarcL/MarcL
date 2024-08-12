@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Marc Littlemore
 
-Hello! I'm a Software Engineering Manager at @n8n_io with extensive experience in leading high-performing teams and delivering innovative solutions across both startup and enterprise environments. Over the past 8 years, I have refined my management skills at BBC, Sony, and several dynamic startups like Netlify.
+Hello! I'm a Software Engineering Manager at [n8n](https://github.com/n8n-io) with extensive experience in leading high-performing teams and delivering innovative solutions across both startup and enterprise environments. Over the past 8 years, I have refined my management skills at BBC, Sony, and several dynamic startups like Netlify.
 
 I'm an ex-veteran of the video games industry, having spent almost 20 years working on video games, mostly for Sony PlayStation. See my [games list here](https://marclittlemore.com/games/).
 
