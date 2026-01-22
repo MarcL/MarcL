@@ -22,9 +22,9 @@ I'm an ex-veteran of the video games industry, having spent almost 20 years work
 ### 📕 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Recovering My Apple Podcast Feed](https://www.marclittlemore.com/recovering-my-apple-podcast-feed/)
 - [Writing Again](https://www.marclittlemore.com/writing-again/)
 - [Automate Your Static Site Rebuilds with Netlify Scheduled Functions](https://www.marclittlemore.com/automate-site-rebuilds-with-netlify-scheduled-functions/)
 - [Easily Create Gravatar Images With Eleventy](https://www.marclittlemore.com/easily-create-gravatar-images-with-eleventy/)
 - [Improving Your Workflow with JavaScript Testing: Best Practices](https://www.marclittlemore.com/javascript-testing/getting-started-with-javascript-testing/)
-- [Streamline Your Workflow: Automate GitLab Releases with Semantic-Release](https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/)
 <!-- BLOG-POST-LIST:END -->
